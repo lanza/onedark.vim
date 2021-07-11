@@ -43,7 +43,7 @@
 
 " Initialization {{{
 
-highlight clear
+" highlight clear
 
 if exists("syntax_on")
   syntax reset
